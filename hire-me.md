@@ -18,3 +18,7 @@ Here are some things that pique my interest:
 * teaching (I love to teach)
 * data science / visualization (not a ton of experience in this, but I'd be an enthusiastic learner)
 * APIs (I love building & enhancing APIs)
+
+If your company is hiring, or you know someone who's looking for a developer,
+drop me a line! You can reach me at [finnterdal [at] gmail [dot]
+com](mailto:finnterdal@gmail.com).
