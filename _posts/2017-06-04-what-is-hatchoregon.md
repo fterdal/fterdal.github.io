@@ -2,10 +2,12 @@
 title: What Is Hatch Oregon?
 ---
 
+# What Is Hatch Oregon
+
 Hatch Oregon is an intrastate crowdfunding platform. So, let's break that
 down into its component parts:
 
-You're probably familiar with *Crowdfunding* if you've heard of Kickstarter
+You're probably familiar with Crowdfunding if you've heard of Kickstarter
 or IndiGoGo. On platforms like these, projects can request small amounts
 of money from lots and lots of people. The project founders reward their
 "backers" based on their contribution. In many cases, the project cannot
