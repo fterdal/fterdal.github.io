@@ -5,7 +5,7 @@
 ### Skills
 
 - Public Speaking
-- Python/Django/REST_API
+- Python/Django/REST API
 - PHP/WordPress/MySQL
 - Project Management
 - JavaScript/React
@@ -13,12 +13,12 @@
 
 ### Experience
 
-**Hatch Innovation** — *Technology Manager*AUGUST 2015 - PRESENTDevelop custom WordPress themes & plugins
-**Portland State Univ.** — *Software Architecture Intern*MAY 2015 - AUGUST 2015Develop Python/Flask API for student & faculty data
-**Portland State Univ.** — *Technical Course Support Specialist*APRIL 2015 - MAY 2015Tutor students about C++, Java, data structures, memory management
-**Apple** — *Sales Specialist*
+#### **Hatch Innovation** — *Technology Manager*AUGUST 2015 - PRESENTDevelop custom WordPress themes & plugins
+#### **Portland State Univ.** — *Software Architecture Intern*MAY 2015 - AUGUST 2015Develop Python/Flask API for student & faculty data
+#### **Portland State Univ.** — *Technical Course Support Specialist*APRIL 2015 - MAY 2015Tutor students about C++, Java, data structures, memory management
+#### **Apple** — *Sales Specialist*
 NOVEMBER 2013 - AUGUST 2014
-**Reed College** — *Admission Intern*OCTOBER 2010 - MAY 2013Interview prospective students, guided tours, discuss college culture and admission process with families and students
+#### **Reed College** — *Admission Intern*OCTOBER 2010 - MAY 2013Interview prospective students, guided tours, discuss college culture and admission process with families and students
 
 ### Education
 
