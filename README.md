@@ -1,5 +1,7 @@
 ## Civic Data, Local Investing, Open Source
 
+
+
 ### Skills
 
 - Public Speaking
