@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Civic Data, Local Investing, Open Source
 
-You can use the [editor on GitHub](https://github.com/fterdal/fterdal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Skills
+
+- Public Speaking
+- Python/Django/REST_API
+- PHP/WordPress/MySQL
+- Project Management 
+- JavaScript/React
+- Linux System Administration
+
+### Experience
+
+**Hatch Innovation**  —  Technology Manager AUGUST 2015 - PRESENTDevelop custom WordPress themes & plugins
+**Portland State Univ.**  —  Software Architecture Intern MAY 2015 - AUGUST 2015Develop Python/Flask API for student & faculty data
+**Portland State Univ.**  —  Technical Course Support Specialist APRIL 2015 - MAY 2015Tutor students about C++, Java, data structures, memory management
+**Apple**  — Sales Specialist NOVEMBER 2013 - AUGUST 2014
+**Reed College**  —  Admission InternOCTOBER 2010 - MAY 2013Interview prospective students, guided tours, discuss college culture and admission process with families and students
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Portland State University**  —  B.S. Comp. Science (in progress)AUGUST 2014 - MARCH 2016Object-oriented programming, functional programming, C++, Java, Python, data structures, operating systems, mathematics of computation
+**Reed College**  —  B.A. PhilosophyAUGUST 2008 - MAY 2013Economics: science and technology, public sector, economic history; Mathematics: an alysis, statistics, algorithms;  Philosophy: epistemology, environmental ethics, metaphysics of computation (thesis topic)
 
-```markdown
-Syntax highlighted code block
+### What's on my mind right now?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fterdal/fterdal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lorem Ipsum or whatever
