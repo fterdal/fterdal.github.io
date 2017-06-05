@@ -7,4 +7,9 @@
 .page-header {
   background-color: #011919;
   background-image: url("/milkyway.jpg");
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
 }
